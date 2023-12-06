@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_952098_gest_o_0_produtos">x_952098_gest_o_0_produtos</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 17:19:53</sys_created_on>
+        <sys_id>98415dc8934735102ec4f5befaba10d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
+        <sys_update_name>sys_number_98415dc8934735102ec4f5befaba10d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 17:19:53</sys_updated_on>
+    </sys_number>
+</record_update>
