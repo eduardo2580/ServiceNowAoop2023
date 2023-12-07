@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>200</max_length>
         <name>x_952098_gest_o_0_produtos</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
         <sys_update_name>sys_dictionary_x_952098_gest_o_0_produtos_item</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-06 17:19:53</sys_updated_on>
+        <sys_updated_on>2023-12-07 17:43:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
