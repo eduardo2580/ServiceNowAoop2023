@@ -2,20 +2,34 @@
     <sys_ui_related sys_domain="global" table="x_952098_gest_o_0_pedidos" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="pedidos - Default view" name="x_952098_gest_o_0_pedidos" related_list="NULL" sys_domain="global" view="Default view">fa8a51c4938735102ec4f5befaba100b</list_id>
+            <list_id display_value="Pedidos - Default view" name="x_952098_gest_o_0_pedidos" related_list="NULL" sys_domain="global" view="Default view">79863c89938b39102ec4f5befaba1015</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_952098_gest_o_0_pedidos.parent</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 18:00:29</sys_created_on>
-            <sys_id>3a8a51c4938735102ec4f5befaba100c</sys_id>
+            <sys_created_on>2023-12-09 17:57:02</sys_created_on>
+            <sys_id>71863c89938b39102ec4f5befaba1017</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 18:00:29</sys_updated_on>
+            <sys_updated_on>2023-12-09 17:57:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Pedidos - Default view" name="x_952098_gest_o_0_pedidos" related_list="NULL" sys_domain="global" view="Default view">79863c89938b39102ec4f5befaba1015</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-09 17:57:02</sys_created_on>
+            <sys_id>b9863c89938b39102ec4f5befaba1017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-09 17:57:02</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>pedidos - Default view</calculated_name>
+            <calculated_name>Pedidos - Default view</calculated_name>
             <filter/>
             <name>x_952098_gest_o_0_pedidos</name>
             <order_by/>
@@ -23,10 +37,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 18:00:29</sys_created_on>
+            <sys_created_on>2023-12-09 17:57:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fa8a51c4938735102ec4f5befaba100b</sys_id>
+            <sys_id>79863c89938b39102ec4f5befaba1015</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>pedidos - Default view</sys_name>
             <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
@@ -34,7 +48,7 @@
             <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
             <sys_update_name>sys_ui_related_x_952098_gest_o_0_pedidos_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 18:00:29</sys_updated_on>
+            <sys_updated_on>2023-12-09 17:57:02</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
