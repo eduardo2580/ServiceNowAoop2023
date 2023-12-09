@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source">
+    <m2m_sp_portal_search_source action="DELETE">
+        <order>100</order>
+        <sp_portal display_value="Gestão de Inventário">0afd8d81930f39102ec4f5befaba1040</sp_portal>
+        <sp_search_source display_value="Pages">76a86f01b3902300e64be12b86a8dc93</sp_search_source>
+        <sys_class_name>m2m_sp_portal_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:40:54</sys_created_on>
+        <sys_id>474e0945930f39102ec4f5befaba1008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestão de Inventário.Pages</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
+        <sys_update_name>m2m_sp_portal_search_source_474e0945930f39102ec4f5befaba1008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:40:54</sys_updated_on>
+    </m2m_sp_portal_search_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</application>
+        <file_path/>
+        <instance_id>ef592e911b5ebd1c168f4089bd4bcb00</instance_id>
+        <instance_name>dev202585</instance_name>
+        <name>m2m_sp_portal_search_source_474e0945930f39102ec4f5befaba1008</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source"><m2m_sp_portal_search_source action="INSERT_OR_UPDATE"><order>100</order><sp_portal display_value="Gestão de Inventário">0afd8d81930f39102ec4f5befaba1040</sp_portal><sp_search_source display_value="Pages">76a86f01b3902300e64be12b86a8dc93</sp_search_source><sys_class_name>m2m_sp_portal_search_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 19:40:54</sys_created_on><sys_id>474e0945930f39102ec4f5befaba1008</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Gestão de Inventário.Pages</sys_name><sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope><sys_update_name>m2m_sp_portal_search_source_474e0945930f39102ec4f5befaba1008</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 19:40:54</sys_updated_on></m2m_sp_portal_search_source></record_update>]]></payload>
+        <payload_hash>1128935769</payload_hash>
+        <record_name>Gestão de Inventário.Pages</record_name>
+        <reverted_from/>
+        <source>2490a548938735102ec4f5befaba10c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:40:54</sys_created_on>
+        <sys_id>474e0945930f39102ec4f5befaba100a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5018d6480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:40:54</sys_updated_on>
+        <type>Search Source</type>
+        <update_guid>8b4e09459a0f3910ac8341733a7ce509</update_guid>
+        <update_guid_history>8b4e09459a0f3910ac8341733a7ce509:1128935769</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Gestão de Inventário.Pages">d47ecd45930f39102ec4f5befaba100c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:41:31</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_search_source">m2m_sp_portal_search_source</sys_db_object>
+        <sys_id>663f8ceb286f463198c56886890ca271</sys_id>
+        <sys_metadata>474e0945930f39102ec4f5befaba1008</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestão de Inventário.Pages</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
+        <sys_scope_delete display_value="">89c73c71dc7d4a0a952caf7a9fac8ce4</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_search_source_474e0945930f39102ec4f5befaba1008</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_search_source_474e0945930f39102ec4f5befaba1008">474e0945930f39102ec4f5befaba100a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:41:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

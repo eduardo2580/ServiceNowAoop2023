@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="pedidos" language="en" table="x_952098_gest_o_0_pedidos">
+    <sys_documentation element="" label="Pedidos" language="en" table="x_952098_gest_o_0_pedidos">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>pedidos</label>
+            <label>Pedidos</label>
             <language>en</language>
             <name>x_952098_gest_o_0_pedidos</name>
-            <plural>pedidos</plural>
+            <plural>Pedidos</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-12-06 17:32:43</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>pedidos</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Pedidos</sys_name>
             <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
             <sys_update_name>sys_documentation_x_952098_gest_o_0_pedidos__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 17:32:43</sys_updated_on>
+            <sys_updated_on>2023-12-09 20:32:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
