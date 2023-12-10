@@ -6,23 +6,23 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>Help - Container 2</name>
+        <name>Produtos - Container 2</name>
         <order>2</order>
         <semantic_tag/>
-        <sp_page display_value="help">d4ae8185930f39102ec4f5befaba1004</sp_page>
+        <sp_page display_value="produtos">d4ae8185930f39102ec4f5befaba1004</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 19:43:14</sys_created_on>
         <sys_id>c9de0585930f39102ec4f5befaba1041</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Help - Container 2</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Produtos - Container 2</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_952098_gest_o_0">683a4104934735102ec4f5befaba100d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">683a4104934735102ec4f5befaba100d</sys_scope>
         <sys_update_name>sp_container_c9de0585930f39102ec4f5befaba1041</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 20:01:46</sys_updated_on>
+        <sys_updated_on>2023-12-10 01:18:53</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>
