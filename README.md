@@ -1,1 +1,1 @@
-© 2024 Eduardo Souza Rodrigues. All rights reserved.
+© 2023-2024 Eduardo Souza Rodrigues. All rights reserved.
