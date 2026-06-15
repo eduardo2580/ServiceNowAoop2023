@@ -1,49 +1,21 @@
-# Restricted Educational License
-**Copyright (c) 2025 Eduardo Souza Rodrigues**  
-*Protected under Brazilian Law 9,610/98 and International Copyright Treaties*
+MIT License
 
-## 1. Permitted Usage
-You may ONLY use this repository for:
-- Classroom instruction at accredited institutions
-- Academic research with proper citation
-- Educational documentation
-- Non-profit student projects (non-deployed)
+Copyright (c) 2026 EDUARDO SOUZA RODRIGUES
 
-## 2. Strict Prohibitions
-Expressly forbidden without written authorization:
-- Personal projects (commercial or non-commercial)
-- Commercial applications
-- AI/ML training systems
-- Blockchain/NFT implementations
-- Public deployments
-- Code modifications/derivative works
-- Redistribution in any form
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 3. Requirements
-Any educational use must:
-1. Display permanent notice: "© Eduardo Souza Rodrigues - Licensed for Educational Use Only"
-2. Link to original repository: `https://github.com/eduardo2580/ServiceNowAoop2023`
-3. Implement content protection:
-   - Disable right-click/download
-   - Prevent text selection/copying
-   - Use read-only access methods
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## 4. Dynamic Amendments
-This license may be modified without notice:
-- Changes take effect immediately upon publication
-- Users must check `LICENSE` before each access
-- Continued use constitutes acceptance of new terms
-
-## 5. Enforcement & Penalties
-Violations will result in:
-- Immediate GitHub DMCA takedown (Article 19, Decree 9.854/2019)
-- Civil lawsuits (up to R$500,000 per violation)
-- Criminal charges under Art. 184 Brazilian Penal Code
-- Permanent access blocking via content protection systems
-
-## 6. Jurisdiction
-- Governing Law: Federative Republic of Brazil
-- Exclusive Legal Forum: São Paulo/SP courts
-
-
-*Last Updated: 2025-03-01*  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
